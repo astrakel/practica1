@@ -2,7 +2,7 @@ package mgcss;
 
 /**
  *
- * @author Vicky
+ * @author Victoria Pachón Álvarez
  */
 public class Main {
     public static void main (String[] args){
