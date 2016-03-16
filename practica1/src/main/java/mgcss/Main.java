@@ -6,7 +6,7 @@ package mgcss;
  */
 public class Main {
     public static void main (String[] args){
-      System.out.println("Bienvenidos a las practicas de MGCSS");
+      System.out.println("Bienvenidos a las practicas de MGCSS sigo trabajando");
       System.out.println("Voy a añadir esta linea"); //linea nueva añadida
       for (int i=0; i<10;i++){
          System.out.print(i+",");
